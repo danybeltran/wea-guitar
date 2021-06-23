@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap");
+* {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+#__next,
+html,
+body {
+  @apply h-full;
+}
+
+.flex-centered {
+  @apply flex items-center;
+}
+.row {
+  @apply flex flex-wrap;
+}
+.col-50 {
+  @apply w-full md:w-1/2;
+}
+
+.product-description {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+/* Hide scrollbar in individual product view */
+.product-description::-webkit-scrollbar {
+  display: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

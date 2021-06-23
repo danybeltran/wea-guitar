@@ -1,0 +1,17 @@
+.nav {
+  @apply shadow-sm px-4 py-3 bg-white;
+  .logo {
+    @apply w-12 h-12 md:w-16 md:h-16 object-cover;
+  }
+
+  .items {
+    @apply px-4 text-xl font-semibold space-x-2;
+  }
+
+  .dot {
+    @apply h-1 w-1 border-2 border-black bg-black rounded-full;
+  }
+  .action-button {
+    @apply rounded-full p-1;
+  }
+}

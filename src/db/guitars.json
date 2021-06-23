@@ -1,0 +1,58 @@
+[
+  {
+    "brand": "Fender",
+    "title": "AMERICAN PROFESSIONAL II STRATOCASTER",
+    "id": "0113902719",
+    "description": "The American Professional II Stratocaster® draws from more than sixty years of innovation, inspiration and evolution to meet the demands of today’s working player.\nOur popular Deep “C” neck now sports smooth rolled fingerboard edges, a “Super-Natural” satin finish and a newly sculpted neck heel for a supremely comfortable feel and easy access to the upper register. New V-Mod II Stratocaster single-coil pickups are more articulate than ever while retaining bell-like chime and warmth. An upgraded 2-point tremolo with a cold-rolled steel block increases sustain, clarity and high-end sparkle.",
+    "price": 989.99,
+    "images": [
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0113902719_fen_ins_frt_1_rr.jpg",
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0113902719_fen_ins_bck_1_rl.jpg",
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0113902719_fen_ins_fbd_1_nr.jpg",
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0113902719_fen_ins_cbr_1_nr.jpg"
+    ],
+    "video_demo": "https://www.youtube.com/embed/8D4S2PjHBCk"
+  },
+  {
+    "brand": "Fender",
+    "title": "AMERICAN ORIGINAL '50S TELECASTER",
+    "id": "0110132850",
+    "description": "The ultimate blue-collar guitar, the Telecaster launched a musical revolution when we released it. Quickly adopted by working guitarists who were enamored with its trend-setting sound, feel and unique style, the Telecaster laid the foundation for modern country, blues and even heavy metal (in Jimmy Page’s hands). The American Original ‘50s Telecaster has all of the authentic Fender touches that made the Telecaster a star of the studio and stage, adding modern feel and pickup switching to this classic guitar.",
+    "price": 924.75,
+    "features": [
+      "Ash body with lacquer finish",
+      "Two Pure Vintage ‘52 single-coil Telecaster pickups",
+      "Thick \"U”-shaped neck profile; 9.5”-radius fingerboard",
+      "Vintage-style hardware; Telecaster bridge with three brass barrel saddles",
+      "Includes vintage-style hardshell case"
+    ],
+    "images": [
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10002/0110132850_gtr_frt_001_rr.jpg",
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0110132850_gtr_back_001_rl.jpg",
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10002/0110132850_gtr_frtbdydtl_001_nr.jpg",
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10002/0110132850_gtr_cntbdyright_001_nr.jpg"
+    ],
+    "video_demo": "https://www.youtube.com/embed/DvJxMX-1GI8"
+  },
+  {
+    "brand": "Fender",
+    "title": "VINTERA® '60S JAGUAR® MODIFIED HH",
+    "id": "0149813372",
+    "description": "For players who appreciate the mojo of Fender’s golden era matched to contemporary features, we created the Vintera® ‘60s Jaguar® Modified. Blending classic looks with a modern neck profile and fingerboard radius, hotter pickups and updated electronics—this guitar packs a surprising amount of power under the hood.",
+    "price": 400.78,
+    "features": [
+      "Ash body with lacquer finish",
+      "Two Pure Vintage ‘52 single-coil Telecaster pickups",
+      "Thick \"U”-shaped neck profile; 9.5”-radius fingerboard",
+      "Vintage-style hardware; Telecaster bridge with three brass barrel saddles",
+      "Includes vintage-style hardshell case"
+    ],
+    "images": [
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0149813372_gtr_frt_001_rr.jpg",
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0149813372_gtr_back_001_rl.jpg",
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0149813372_gtr_frtbdydtl_001_nr.jpg",
+      "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0149813372_gtr_hdstckfrt_001_nr.jpg"
+    ],
+    "video_demo": "https://www.youtube.com/embed/vJVdpl0Nxv4"
+  }
+]
